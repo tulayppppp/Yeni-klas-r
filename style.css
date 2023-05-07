@@ -1,0 +1,122 @@
+.body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:marker;
+    font-size:normal;
+
+}
+
+.img{
+    width: 6%;
+    height: 12px;
+    border-bottom: 20%;
+}
+.img2{
+
+    width: 30%;
+    height: 14px;
+}
+
+.container{
+    .h1{
+        color: rgb(64, 64, 211);
+       }
+     .h2{
+        color: rgb(198, 37, 69);
+           }
+    .h3{
+        color: rgb(27, 27, 76);
+       }
+}
+
+.nav{
+  color: darkgreen;
+  border-radius: 25%;
+  background-position: 30%;
+
+}
+
+.clearfix{
+    clear:both;
+}
+.container{
+    width: 30%;
+    height: 350px;
+    margin: auto;
+    
+}
+.left{
+    width: 35%;
+    height: 350px;
+    float: left;
+}
+.right{
+    width: 58%;
+    height: 350px;
+    float:left ;
+}
+.box{
+    width: 55%;
+    height: 40px;
+    background-color:rgb(29, 3, 20)
+    border-radius: 10px 20px;
+    float: :right;
+    background-position: center;
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+.clearfix{
+    clear:both 
+}
+.container2{
+width: 35%;
+height: 40px;
+margin: auto;
+background-color: rgb(39, 39, 120);
+border-radius: 10px 20px;
+float:left;
+margin-left: auto;
+   
+
+}
+.container3{
+width: 35%;
+height: 40px;
+margin: auto;
+background-color: rgb(27, 157, 159);
+border-radius: 10px 20px;
+float:left;
+margin-left: auto;
+
+}
+.container4{
+ width: 35%;
+    height: 40px;
+    margin: auto;
+    background-color: rgb(241, 77, 118);
+    border-radius: 10px 20px;
+    float:left;
+    margin-left: auto;
+}
+   .container5{
+    width: 35%;
+    height: 40px;
+    margin: auto;
+    background-color: rgb(154, 167, 41);
+    border-radius: 10px 20px;
+    float:left;
+    margin-left: auto; 
+   }
+.clearfix{
+    clear:both
+}
+ 
+ .box:hover{
+    background-color: rgb(38, 177, 98);
+    transform: rotateX('angle');
+ 
+ }
+@media screen  and (max-width=300px) {
+    
+}
+
+    
